@@ -1,0 +1,14 @@
+{
+  "name": "commt",
+  "owner": {
+    "name": "Mesut Kilincaslan"
+  },
+  "description": "Open-source skills and plugins published by Commt.",
+  "plugins": [
+    {
+      "name": "think2spec",
+      "source": ".",
+      "description": "Compiles a plain-text prompt into a structured task specification for AI agents, with guessed scope labelled as assumptions."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "think2spec",
+  "version": "0.1.0",
+  "description": "Compiles a plain-text prompt into a structured task specification for AI agents, with guessed scope labelled as assumptions.",
+  "author": {
+    "name": "Mesut Kilincaslan"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/commt/think2spec",
+  "keywords": [
+    "prompt structuring",
+    "task specification",
+    "structured prompt",
+    "AI coding agents"
+  ]
+}
